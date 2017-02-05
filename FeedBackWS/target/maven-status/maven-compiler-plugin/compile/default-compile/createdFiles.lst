@@ -1,0 +1,4 @@
+ru/ubrr/feedbackws/model/ProcessingRequest.class
+ru/ubrr/feedbackws/soap/FeedBackWebServiceImpl.class
+ru/ubrr/feedbackws/repository/ProcessingRequestRepo.class
+ru/ubrr/feedbackws/soap/FeedBackWebService.class
